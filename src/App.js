@@ -1,5 +1,5 @@
 import React from 'react';
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect } from 'react';
 import { AiOutlineArrowRight, AiOutlineArrowLeft } from 'react-icons/ai';
 import data from './data';
 import { FaQuoteRight } from 'react-icons/fa';
